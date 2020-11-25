@@ -9,7 +9,7 @@ Basic prototype to exercise Python OOP and SQLAlchemy to create a banking system
 
 `pip install -e .`
 
-2. Then run the following from the tests sub-directory.
+2. Then run the following from the tests sub-directory. Tests are written using pytest and hence require this package.
 
  `py -3 test_bank_services.py`
 
